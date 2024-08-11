@@ -11,6 +11,7 @@ The client app for [MAC](https://github.com/MegaAntiCheat)
 ip 0.0.0.0
 rcon_password mac_rcon
 net_start
+ds_enable 2
 ```
 4. If you use mastercomfig, you will have to put your `autoexec.cfg` inside the `overrides` folder instead ([more information](https://docs.mastercomfig.com/9.9.3/customization/custom_configs))
 5. Launch TF2
